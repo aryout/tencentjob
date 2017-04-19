@@ -16,7 +16,7 @@ db.ini
 deploy_key_rsa
 
 #idea
-.idea
+.idea/*
 
 #log
-.log
+*.log
